@@ -26,7 +26,7 @@ Değerleri, listedeki bir elemanla aynı olan bir nesneniz olsun. ArrayList'in i
 
 ### Notlar
 
-Sınıflar kendi başına *Calisan.java*, *Main.java dosyası içinde yer alsın. Uzem'den '.java' dosyası gönderememe ihtimali durumunda [bu örnek]()teki gibi bir _.txt_ dosyası veya [şu örnek]()teki gibi bir _.pdf_ dosyası yükleyin.
+Sınıflar kendi başına *Calisan.java*, *Main.java* dosyası içinde yer alsın. Uzem'den '.java' dosyası gönderememe ihtimali durumunda [bu örnek]()teki gibi bir _.txt_ dosyası veya [şu örnek]()teki gibi bir _.pdf_ dosyası yükleyin.
 
 Derste yapılan **Kitap** sınıfının kodlarını [buradan]() görebilirsiniz.
 
