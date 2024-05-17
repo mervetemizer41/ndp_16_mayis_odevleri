@@ -1,4 +1,4 @@
-package com.mt.arel.temelmetotlar;
+
 import java.util.*;
 
 public class Main
