@@ -33,6 +33,6 @@ Her ödev deposunun(repository) altındaki kodları farklı projelerde çalışt
 
 Sınıflar kendi başına *Calisan.java*, *Main.java* dosyası içinde yer alsın. Uzem'den yükleyebilmek için bütün dosyaları '.zip' veya '.rar' haline getirebilirsiniz.  
 
-Derste yapılan **Kitap** sınıfının kodlarını [buradan]() görebilirsiniz.
+Derste yapılan **Kitap** sınıfının kodlarını [buradan](https://github.com/mervetemizer41/ndp_16_mayis_odevleri/blob/main/Kitap.java) görebilirsiniz.
 
-Dersteki örnek **Main** sınıfı için yapılmışını [burada]() bulabilirsiniz.
+Dersteki örnek **Main** sınıfı için yapılmışını [burada](https://github.com/mervetemizer41/ndp_16_mayis_odevleri/blob/main/Main.java) bulabilirsiniz.
