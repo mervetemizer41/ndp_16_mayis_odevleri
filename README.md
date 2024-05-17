@@ -18,7 +18,7 @@ Alanların `getter`, `setter` metotları sınıfın içinde yer alsın.
 
 ### Görev 3:
 
-`Calisan` sınıfından 4 tane nesneyi 'Main.java' şeklindeki bir dosyada main metodu içinde üretin. Bunları bir listeye(List, ArrayList) ekleyin.
+`Calisan` sınıfından 4 tane nesneyi 'Main.java' şeklindeki bir dosyada main metodu içinde üretin. Bunları bir listeye(`List`, `ArrayList`) ekleyin.
 
 ### Teşvik Görevi (Bonus):
 
