@@ -22,7 +22,7 @@ Alanların `getter`, `setter` metotları sınıfın içinde yer alsın.
 
 ### Teşvik Görevi (Bonus):
 
-Değerleri, listedeki bir elemanla aynı olan bir nesneniz olsun. ArrayList'in içindeki `indexOf` metodu ve Görev 3'te hazırladığınız `equals` sayesinde, aynı değerlere sahip nesnenin listedeki indisini bulun, yazdırın.
+Değerleri, listedeki bir elemanla aynı olan bir nesneniz olsun. `ArrayList`'in içindeki `indexOf` metodu ve Görev 3'te hazırladığınız `equals` sayesinde, aynı değerlere sahip nesnenin listedeki indisini bulun, yazdırın.
 
 ### Öneriler:
 
