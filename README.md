@@ -24,6 +24,11 @@ Alanların `getter`, `setter` metotları sınıfın içinde yer alsın.
 
 Değerleri, listedeki bir elemanla aynı olan bir nesneniz olsun. ArrayList'in içindeki `indexOf` metodu ve Görev 3'te hazırladığınız `equals` sayesinde, aynı değerlere sahip nesnenin listedeki indisini bulun, yazdırın.
 
+### Öneriler:
+
+Her ödev deposunun(repository) altındaki kodları farklı projelerde çalıştırmanız önerilir. Birden fazla `main` metodu aynı projede sorun meydana getirecektir.
+
+
 ### Notlar
 
 Sınıflar kendi başına *Calisan.java*, *Main.java* dosyası içinde yer alsın. Uzem'den _'.java'_ dosyası gönderememe ihtimali durumunda [bu örnek]()teki gibi bir _'.txt'_ dosyası veya [şu örnek]()teki gibi bir _'.pdf'_ dosyası yükleyin.
