@@ -31,7 +31,7 @@ Her ödev deposunun(repository) altındaki kodları farklı projelerde çalışt
 
 ### Notlar:
 
-Sınıflar kendi başına *Calisan.java*, *Main.java* dosyası içinde yer alsın. Uzem'den _'.java'_ dosyası gönderememe ihtimali durumunda [bu örnek]()teki gibi bir _'.txt'_ dosyası veya [şu örnek]()teki gibi bir _'.pdf'_ dosyası yükleyin.
+Sınıflar kendi başına *Calisan.java*, *Main.java* dosyası içinde yer alsın. Uzem'den yükleyebilmek için bütün dosyaları '.zip' veya '.rar' haline getirebilirsiniz.  
 
 Derste yapılan **Kitap** sınıfının kodlarını [buradan]() görebilirsiniz.
 
