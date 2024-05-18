@@ -1,5 +1,12 @@
 # ndp_16_mayis_odevleri
 
+Mayis 16, 2024 dersi görevleri.
+
+18 Mayıs’ta ilan edildi.
+
+Son teslim: Mayis 26, 2024, Pazar, 23.55. 
+https://uzem.arel.edu.tr
+
 ### Görev 1:
 Bir **Çalışan** sınıfı (Türkçe karaktersiz şekilde: `Calisan`) hazırlayın. Bu `Calisan` sınıfının;
 + `Ad` (`String`)
