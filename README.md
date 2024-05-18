@@ -4,7 +4,7 @@ Mayis 16, 2024 dersi görevleri.
 
 18 Mayıs’ta ilan edildi.
 
-Son teslim: Mayis 26, 2024, Pazar, 23.55. 
+Son teslim: Mayis 30, 2024, Perşembe, 23.55. 
 https://uzem.arel.edu.tr
 
 ### Görev 1:
