@@ -43,3 +43,5 @@ Sınıflar kendi başına *Calisan.java*, *Main.java* dosyası içinde yer alsı
 Derste yapılan **Kitap** sınıfının kodlarını [buradan](https://github.com/mervetemizer41/ndp_16_mayis_odevleri/blob/main/Kitap.java) görebilirsiniz.
 
 Dersteki örnek **Main** sınıfı için yapılmışını [burada](https://github.com/mervetemizer41/ndp_16_mayis_odevleri/blob/main/Main.java) bulabilirsiniz.
+
+**Önemli not: Destek alarak yapsanız da kendi değişken isimlerinizi kullanınız, kod yazıp çalıştırdığınızı ifade etmesi açısından bu önemli.**
